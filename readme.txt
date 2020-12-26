@@ -1,12 +1,11 @@
 注意：
 	1.请先安装 virtualbox,再安装vagrant
 	
-
-【windows】
-	windows版本，直接双击‘windows-download.bat’下载，
+windows
+	1.windows版本，直接双击‘windows-download.bat’下载，
 		桌面将会创建"vagrant_download"的文件夹，并将文件下载到此目录中
 		
-【其他系统】
+	2.下载不了？
 
 	浏览器复制链接，直接下载。
 	
