@@ -23,4 +23,5 @@ windows
 		1.安装virtualbox
 		2.安装vagrant
 		3.执行vagrant_init.bat
-		4.执行init_php_environment.sh
+		4.执行init_centos_environment.sh
+		4.执行init_nginx_mysql_php.sh
